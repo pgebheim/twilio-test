@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
         <Say>Thank you for calling OneTaste East Bay. Please wait.</Say>
-        <Dial>+16507763766</Dial>
+        <Dial>
+                <Number>+16507763766</Number>
+        </Dial>
 </Response>
